@@ -1,6 +1,6 @@
 # Quiz Buzzer
 
-A real-time quiz buzzer application built with React and Supabase.
+A real-time quiz buzzer application built with React.
 
 ## Features
 
